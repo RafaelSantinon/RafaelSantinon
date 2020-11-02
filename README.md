@@ -6,6 +6,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/rafael-santinon/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 ---
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelSantinon&show_icons=true)
