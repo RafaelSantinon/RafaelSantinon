@@ -7,7 +7,7 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
----
+### Status GitHub
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelSantinon&show_icons=true)
 
